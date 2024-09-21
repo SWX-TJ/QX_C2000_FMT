@@ -38,7 +38,7 @@
 uint32_t core1_cnt = 0;
 
 int main(void) {
-
+    Device_init();
     while(1){
         if(++core1_cnt > 0x10000){
             core1_cnt = 0;

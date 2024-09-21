@@ -29,19 +29,18 @@ extern "C" {
 #else
 #define DEVICE_OSCSRC_FREQ          16000000UL
 
-#define IMULT_VAL                   25 // WARNNING: IMULT_VAL must >= 40 & <=63
-#define ODIV_VAL                    4  // WARNNING: ODIV_VAL  must >=  0 & <=15
+#define IMULT_VAL                   40 // WARNNING: IMULT_VAL must >= 40 & <=63
+#define ODIV_VAL                    2  // WARNNING: ODIV_VAL  must >=  0 & <=15
 #define LSPCLK_PRESCALE             SYSCTL_LSPCLK_PRESCALE_1
 #endif
 
-//
 // Define to pass to SysCtl_setClock(). Will configure the clock as follows:
 // PLLSYSCLK = (XTAL/OSC1/OSC2 CLK) * IMULT_VAL / IDIV / ODIV_VAL / SYSDIV
 //
 #define DEVICE_SETCLOCK_CFG         (SYSCTL_OSCSRC_XTAL | SYSCTL_IMULT(IMULT_VAL) | SYSCTL_IDIV(1) | \
                                      SYSCTL_ODIV(ODIV_VAL) | SYSCTL_SYSDIV(1) | SYSCTL_PLL_ENABLE)
 
-//
+
 // SYSCLK frequency based on the above DEVICE_SETCLOCK_CFG. Update the
 // code below if a different clock configuration is used!
 //

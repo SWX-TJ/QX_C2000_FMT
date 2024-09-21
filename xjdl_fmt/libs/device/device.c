@@ -8,8 +8,9 @@ void Device_init(void)
 
     if (SysCtl_getClock(DEVICE_OSCSRC_FREQ) >= 120000000)
         Flash_setClkDiv(4); // flash max support 133Mhz clock
-
     // SysCtl_enablePeripheralAll();
+    //开启核1时钟
+    SysCtl_enablePeripheral(SYSCTL_PERIPH_CLK_CPU1);
 }
 
 void SysCtl_enablePeripheralAll(void)
