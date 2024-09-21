@@ -1,0 +1,834 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 Release\globalvariabledefs.o
+ PieCtrlRegsFile
+                0x0000000000000000       0x40 Release\globalvariabledefs.o
+ CpuTimer0RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ CpuTimer1RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ CpuTimer2RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ CpuTimer0LC2RegsRegsFile
+                0x0000000000000000        0x4 Release\globalvariabledefs.o
+ CpuTimer1LC2RegsRegsFile
+                0x0000000000000000        0x4 Release\globalvariabledefs.o
+ CpuTimer2LC2RegsRegsFile
+                0x0000000000000000        0x4 Release\globalvariabledefs.o
+ CpuTimerSysRegsFile
+                0x0000000000000000        0xc Release\globalvariabledefs.o
+ ExpRegsFile    0x0000000000000000       0x24 Release\globalvariabledefs.o
+ WdRegsFile     0x0000000000000000      0x100 Release\globalvariabledefs.o
+ IpcEventRegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ IpcCmdRegsFile
+                0x0000000000000000       0x20 Release\globalvariabledefs.o
+ TraceBufferRegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ WatchPointRegsFile
+                0x0000000000000000       0x2c Release\globalvariabledefs.o
+ EccRegsFile    0x0000000000000000        0xc Release\globalvariabledefs.o
+ EradGlobalRegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP1RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP2RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP3RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP4RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP5RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP6RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP7RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradHWBP8RegsFile
+                0x0000000000000000       0x14 Release\globalvariabledefs.o
+ EradCounter1RegsFile
+                0x0000000000000000       0x1c Release\globalvariabledefs.o
+ EradCounter2RegsFile
+                0x0000000000000000       0x1c Release\globalvariabledefs.o
+ EradCounter3RegsFile
+                0x0000000000000000       0x1c Release\globalvariabledefs.o
+ EradCounter4RegsFile
+                0x0000000000000000       0x1c Release\globalvariabledefs.o
+ ClkCfgRegsFile
+                0x0000000000000000       0x48 Release\globalvariabledefs.o
+ DevCfgRegsFile
+                0x0000000000000000      0x278 Release\globalvariabledefs.o
+ XintRegsFile   0x0000000000000000       0x2c Release\globalvariabledefs.o
+ Dcc0RegsFile   0x0000000000000000       0x2c Release\globalvariabledefs.o
+ GpioCtrlRegsFile
+                0x0000000000000000      0x138 Release\globalvariabledefs.o
+ GpioDataRegsFile
+                0x0000000000000000       0x50 Release\globalvariabledefs.o
+ InputXbarRegsFile
+                0x0000000000000000       0x84 Release\globalvariabledefs.o
+ EPwmXbarRegsFile
+                0x0000000000000000       0x98 Release\globalvariabledefs.o
+ OutputXbarRegsFile
+                0x0000000000000000       0x88 Release\globalvariabledefs.o
+ XbarRegsFile   0x0000000000000000       0x18 Release\globalvariabledefs.o
+ DmaCH2RegsFile
+                0x0000000000000000       0xa0 Release\globalvariabledefs.o
+ DmaCH3RegsFile
+                0x0000000000000000       0xa0 Release\globalvariabledefs.o
+ DmaCH4RegsFile
+                0x0000000000000000       0xa0 Release\globalvariabledefs.o
+ DmaCH5RegsFile
+                0x0000000000000000       0xa0 Release\globalvariabledefs.o
+ DmaCH6RegsFile
+                0x0000000000000000       0xa0 Release\globalvariabledefs.o
+ AnalogSubsysRegsFile
+                0x0000000000000000       0x30 Release\globalvariabledefs.o
+ AdcaRegsFile   0x0000000000000000      0x100 Release\globalvariabledefs.o
+ AdcaResultRegsFile
+                0x0000000000000000       0x60 Release\globalvariabledefs.o
+ AdcbRegsFile   0x0000000000000000      0x100 Release\globalvariabledefs.o
+ AdcbResultRegsFile
+                0x0000000000000000       0x60 Release\globalvariabledefs.o
+ AdccRegsFile   0x0000000000000000      0x100 Release\globalvariabledefs.o
+ AdccResultRegsFile
+                0x0000000000000000       0x60 Release\globalvariabledefs.o
+ Pga1RegsFile   0x0000000000000000       0x20 Release\globalvariabledefs.o
+ Pga2RegsFile   0x0000000000000000       0x20 Release\globalvariabledefs.o
+ Pga3RegsFile   0x0000000000000000       0x20 Release\globalvariabledefs.o
+ Pga4RegsFile   0x0000000000000000       0x20 Release\globalvariabledefs.o
+ Pga5RegsFile   0x0000000000000000       0x20 Release\globalvariabledefs.o
+ Pga6RegsFile   0x0000000000000000       0x20 Release\globalvariabledefs.o
+ Pga7RegsFile   0x0000000000000000       0x20 Release\globalvariabledefs.o
+ DacaRegsFile   0x0000000000000000       0x1c Release\globalvariabledefs.o
+ DacbRegsFile   0x0000000000000000       0x1c Release\globalvariabledefs.o
+ Cmpss1RegsFile
+                0x0000000000000000       0x5c Release\globalvariabledefs.o
+ Cmpss2RegsFile
+                0x0000000000000000       0x5c Release\globalvariabledefs.o
+ Cmpss3RegsFile
+                0x0000000000000000       0x5c Release\globalvariabledefs.o
+ Cmpss4RegsFile
+                0x0000000000000000       0x5c Release\globalvariabledefs.o
+ Cmpss5RegsFile
+                0x0000000000000000       0x5c Release\globalvariabledefs.o
+ Cmpss6RegsFile
+                0x0000000000000000       0x5c Release\globalvariabledefs.o
+ Cmpss7RegsFile
+                0x0000000000000000       0x5c Release\globalvariabledefs.o
+ Sdfm1RegsFile  0x0000000000000000       0xa0 Release\globalvariabledefs.o
+ ECap1RegsFile  0x0000000000000000       0x34 Release\globalvariabledefs.o
+ ECap2RegsFile  0x0000000000000000       0x34 Release\globalvariabledefs.o
+ ECap3RegsFile  0x0000000000000000       0x34 Release\globalvariabledefs.o
+ ECap4RegsFile  0x0000000000000000       0x34 Release\globalvariabledefs.o
+ ECap5RegsFile  0x0000000000000000       0x34 Release\globalvariabledefs.o
+ ECap6RegsFile  0x0000000000000000       0x34 Release\globalvariabledefs.o
+ ECap7RegsFile  0x0000000000000000       0x34 Release\globalvariabledefs.o
+ HRCap6RegsFile
+                0x0000000000000000       0x2c Release\globalvariabledefs.o
+ HRCap7RegsFile
+                0x0000000000000000       0x2c Release\globalvariabledefs.o
+ SyncSocRegsFile
+                0x0000000000000000        0xc Release\globalvariabledefs.o
+ SFORegsFile    0x0000000000000000       0x4c Release\globalvariabledefs.o
+ SFOHHRRegsFile
+                0x0000000000000000       0x4c Release\globalvariabledefs.o
+ EPwm1RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm2RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm3RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm4RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm5RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm6RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm7RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm8RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm9RegsFile  0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm10RegsFile
+                0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm11RegsFile
+                0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EPwm12RegsFile
+                0x0000000000000000      0x200 Release\globalvariabledefs.o
+ EQep1RegsFile  0x0000000000000000       0x6c Release\globalvariabledefs.o
+ EQep2RegsFile  0x0000000000000000       0x6c Release\globalvariabledefs.o
+ SpiaRegsFile   0x0000000000000000      0x804 Release\globalvariabledefs.o
+ SpibRegsFile   0x0000000000000000      0x804 Release\globalvariabledefs.o
+ SciaRegsFile   0x0000000000000000      0x100 Release\globalvariabledefs.o
+ ScibRegsFile   0x0000000000000000      0x100 Release\globalvariabledefs.o
+ I2caRegsFile   0x0000000000000000       0xac Release\globalvariabledefs.o
+ PmbusaRegsFile
+                0x0000000000000000      0x150 Release\globalvariabledefs.o
+ LinaRegsFile   0x0000000000000000       0x3c Release\globalvariabledefs.o
+ FsiRxaRegsFile
+                0x0000000000000000       0x94 Release\globalvariabledefs.o
+ FsiTxaRegsFile
+                0x0000000000000000       0x8c Release\globalvariabledefs.o
+ CanaRegsFile   0x0000000000000000      0x1b0 Release\globalvariabledefs.o
+ CanbRegsFile   0x0000000000000000      0x1b0 Release\globalvariabledefs.o
+ CanFDaRegsFile
+                0x0000000000000000       0xcc Release\globalvariabledefs.o
+ CanFDbRegsFile
+                0x0000000000000000       0xcc Release\globalvariabledefs.o
+ HrAdcaRegsFile
+                0x0000000000000000       0xe8 Release\globalvariabledefs.o
+ HrAdcbRegsFile
+                0x0000000000000000       0xe8 Release\globalvariabledefs.o
+ HrAdccRegsFile
+                0x0000000000000000       0xe8 Release\globalvariabledefs.o
+ Flash0CtrlRegsFile
+                0x0000000000000000        0xc Release\globalvariabledefs.o
+ XintfaRegsFile
+                0x0000000000000000       0x30 Release\globalvariabledefs.o
+ .llvm_addrsig  0x0000000000000000        0x0 Release\globalvariabledefs.o
+ .text          0x0000000000000000        0x0 Release\bootloadermain.o
+ .llvm_addrsig  0x0000000000000000        0xb Release\bootloadermain.o
+ .text          0x0000000000000000        0x0 Release\bootloaderstartup.o
+ .data          0x0000000000000000        0x0 Release\bootloaderstartup.o
+ .bss           0x0000000000000000        0x0 Release\bootloaderstartup.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+GSD0_RAM         0x0000000000000000 0x0000000000010000
+GSD1_RAM         0x0000000000010000 0x0000000000010000
+GSD2_RAM         0x0000000000020000 0x0000000000010000
+GSD3_RAM         0x0000000000030000 0x0000000000010000
+GSI0_RAM         0x0000000000200000 0x0000000000010000
+GSI1_RAM         0x0000000000210000 0x0000000000010000
+GSI2_RAM         0x0000000000220000 0x0000000000010000
+GSI3_RAM         0x0000000000230000 0x0000000000010000
+BOOT_RAM         0x0000000000280000 0x0000000000002000
+FLASH_DATA       0x0000000030000000 0x0000000000100000
+GSD_RAM_RESERVED 0x0000000000000000 0x0000000000000004
+GSD_RAM_CORE0    0x0000000000000004 0x000000000001fffc
+GSD_RAM_CORE1    0x0000000000020000 0x0000000000020000
+GSI_RAM_CORE0    0x0000000000220000 0x0000000000020000
+GSI_RAM_CORE1    0x0000000000200000 0x0000000000020000
+STACK_CORE0      0x0000000000000000 0x0000000000000400
+STACK_CORE1      0x0000000000000000 0x0000000000000400
+*default*        0x0000000000000000 0xffffffffffffffff
+PIECTRL          0x00000000007f0100 0x0000000000000100
+DEBUG            0x00000000007f0200 0x0000000000000100
+CPUTIMER0        0x00000000007f0300 0x0000000000000014
+CPUTIMER1        0x00000000007f0314 0x0000000000000014
+CPUTIMER2        0x00000000007f0328 0x0000000000000014
+CPUTIMERSYS      0x00000000007f03a0 0x000000000000000c
+CPUTIMER0LC2     0x00000000007f03b0 0x0000000000000004
+CPUTIMER1LC2     0x00000000007f03b4 0x0000000000000004
+CPUTIMER2LC2     0x00000000007f03b8 0x0000000000000004
+CR               0x00000000007f0400 0x0000000000000100
+GR               0x00000000007f0500 0x0000000000000100
+MOB              0x00000000007f0600 0x0000000000000100
+EXP              0x00000000007f0700 0x0000000000000100
+WD               0x00000000007f0800 0x0000000000000100
+IPCEVENT         0x00000000007f0900 0x0000000000000100
+IPCCMD           0x00000000007f0a00 0x0000000000000100
+VCU              0x00000000007f0b00 0x0000000000000100
+TRACE_BUFFER     0x00000000007f0c00 0x0000000000000100
+WATCH_POINT      0x00000000007f0d00 0x0000000000000100
+ECC              0x00000000007f0e00 0x0000000000000100
+ERADGLOBAL       0x00000000007f0f00 0x0000000000000100
+ERADHWBP1        0x00000000007f1000 0x0000000000000100
+ERADHWBP2        0x00000000007f1100 0x0000000000000100
+ERADHWBP3        0x00000000007f1200 0x0000000000000100
+ERADHWBP4        0x00000000007f1300 0x0000000000000100
+ERADHWBP5        0x00000000007f1400 0x0000000000000100
+ERADHWBP6        0x00000000007f1500 0x0000000000000100
+ERADHWBP7        0x00000000007f1600 0x0000000000000100
+ERADHWBP8        0x00000000007f1700 0x0000000000000100
+ERADCOUNTER1     0x00000000007f1800 0x0000000000000100
+ERADCOUNTER2     0x00000000007f1900 0x0000000000000100
+ERADCOUNTER3     0x00000000007f1a00 0x0000000000000100
+ERADCOUNTER4     0x00000000007f1b00 0x0000000000000100
+CLKCFG           0x0000000001000000 0x0000000000000200
+CPUSYS           0x0000000001001000 0x0000000000000400
+DEVCFG           0x0000000001001000 0x0000000000000400
+XINT             0x00000000010011b0 0x0000000000000050
+NMIINTRUPT       0x0000000001001200 0x0000000000000100
+DCC0             0x0000000001002000 0x0000000000001000
+GPIOCTRL         0x0000000001003000 0x0000000000001000
+GPIODATA         0x0000000001004000 0x0000000000001000
+INPUTXBAR        0x0000000001005000 0x0000000000001000
+EPWMXBAR         0x0000000001006000 0x0000000000001000
+OUTPUTXBAR       0x0000000001007000 0x0000000000001000
+XBAR             0x0000000001008000 0x0000000000001000
+DMA              0x0000000001009000 0x0000000000001000
+DMACH1           0x0000000001009100 0x0000000000000100
+DMACH2           0x0000000001009200 0x0000000000000100
+DMACH3           0x0000000001009300 0x0000000000000100
+DMACH4           0x0000000001009400 0x0000000000000100
+DMACH5           0x0000000001009500 0x0000000000000100
+DMACH6           0x0000000001009600 0x0000000000000100
+ANALOGSUBSYS     0x000000000100a000 0x0000000000001000
+ADC_A            0x000000000100b000 0x0000000000000100
+ADCARESULT       0x000000000100b100 0x0000000000000100
+ADC_B            0x000000000100b200 0x0000000000000100
+ADCBRESULT       0x000000000100b300 0x0000000000000100
+ADC_C            0x000000000100b400 0x0000000000000100
+ADCCRESULT       0x000000000100b500 0x0000000000000100
+PGA1             0x000000000100c000 0x0000000000000020
+PGA2             0x000000000100c020 0x0000000000000020
+PGA3             0x000000000100c040 0x0000000000000020
+PGA4             0x000000000100c060 0x0000000000000020
+PGA5             0x000000000100c080 0x0000000000000020
+PGA6             0x000000000100c0a0 0x0000000000000020
+PGA7             0x000000000100c0c0 0x0000000000000020
+DAC_A            0x000000000100d000 0x0000000000000040
+DAC_B            0x000000000100d040 0x0000000000000040
+CMPSS1           0x000000000100e000 0x0000000000000100
+CMPSS2           0x000000000100e100 0x0000000000000100
+CMPSS3           0x000000000100e200 0x0000000000000100
+CMPSS4           0x000000000100e300 0x0000000000000100
+CMPSS5           0x000000000100e400 0x0000000000000100
+CMPSS6           0x000000000100e500 0x0000000000000100
+CMPSS7           0x000000000100e600 0x0000000000000100
+SDFM             0x000000000100f000 0x0000000000001000
+ECAP1            0x0000000001010000 0x0000000000000080
+ECAP2            0x0000000001010080 0x0000000000000080
+ECAP3            0x0000000001010100 0x0000000000000080
+ECAP4            0x0000000001010180 0x0000000000000080
+ECAP5            0x0000000001010200 0x0000000000000080
+ECAP6            0x0000000001010280 0x0000000000000040
+ECAP7            0x0000000001010300 0x0000000000000040
+HRCAP6           0x00000000010102c0 0x0000000000000040
+HRCAP7           0x0000000001010340 0x0000000000000040
+SYNCSOC          0x0000000001010380 0x0000000000000080
+SFO              0x0000000001010400 0x0000000000000080
+SFOHHR           0x0000000001010480 0x0000000000000080
+EPWM9            0x0000000001010600 0x0000000000000200
+EPWM10           0x0000000001010800 0x0000000000000200
+EPWM11           0x0000000001010a00 0x0000000000000200
+EPWM12           0x0000000001010c00 0x0000000000000200
+EPWM1            0x0000000001011000 0x0000000000000200
+EPWM2            0x0000000001011200 0x0000000000000200
+EPWM3            0x0000000001011400 0x0000000000000200
+EPWM4            0x0000000001011600 0x0000000000000200
+EPWM5            0x0000000001011800 0x0000000000000200
+EPWM6            0x0000000001011a00 0x0000000000000200
+EPWM7            0x0000000001011c00 0x0000000000000200
+EPWM8            0x0000000001011e00 0x0000000000000200
+EQEP1            0x0000000001012000 0x0000000000000800
+EQEP2            0x0000000001012800 0x0000000000000800
+SPIA             0x0000000001013000 0x0000000000001000
+SPIB             0x0000000001014000 0x0000000000001000
+SCIA             0x0000000001015000 0x0000000000001000
+SCIB             0x0000000001016000 0x0000000000001000
+I2CA             0x0000000001017000 0x0000000000001000
+PMBUSA           0x0000000001018000 0x0000000000001000
+LINA             0x0000000001019000 0x0000000000001000
+FSITXA           0x000000000101a000 0x0000000000001000
+FSIRXA           0x000000000101b000 0x0000000000001000
+REGFILE          0x000000000101c000 0x0000000000001000
+CANA             0x0000000001020000 0x0000000000001000
+CANB             0x0000000001030000 0x0000000000001000
+CANFDA           0x0000000001052000 0x0000000000001000
+CANFDB           0x0000000001053000 0x0000000000001000
+HRADC_A          0x0000000001054000 0x0000000000000400
+HRADC_B          0x0000000001054400 0x0000000000000400
+HRADC_C          0x0000000001054800 0x0000000000000400
+FLASH0CTRL       0x0000000001040000 0x0000000000001000
+XINTFA           0x0000000020000000 0x0000000000001000
+
+Linker script and memory map
+
+                0x0000000000280000                __text_start__ = ORIGIN (BOOT_RAM)
+
+.text           0x0000000000280000      0x480
+ *(.text.qxboot)
+ .text.qxboot   0x0000000000280000       0x20 Release\bootloaderstartup.o
+                0x0000000000280000                _dsp_boot_start
+                0x0000000000280014                _dsp_boot_jmp_to_core0
+ *(.text)
+ *(.text.*)
+ .text.qx_bootloader_main
+                0x0000000000280020      0x338 Release\bootloadermain.o
+                0x0000000000280020                qx_bootloader_main
+ .text.dma_read
+                0x0000000000280358      0x11c Release\bootloadermain.o
+                0x0000000000280480                . = ALIGN (0x10)
+ *fill*         0x0000000000280474        0xc 00000080
+                0x0000000000280480                __text_end__ = .
+                0x00000000fffffff8                PROVIDE (_DRAM_START_MASK_, 0xfffffff8)
+                0x0000000000000000                PROVIDE (_CORE0_DRAM_START, (ORIGIN (GSD_RAM_CORE0) & _DRAM_START_MASK_))
+                0x0000000000020000                PROVIDE (_CORE1_DRAM_START, (ORIGIN (GSD_RAM_CORE1) & _DRAM_START_MASK_))
+                0x0000000000220000                PROVIDE (_CORE0_IRAM_START, ORIGIN (GSI_RAM_CORE0))
+                0x0000000000200000                PROVIDE (_CORE1_IRAM_START, ORIGIN (GSI_RAM_CORE1))
+                0x0000000000220400                PROVIDE (_CORE0_CODE_ENTRY, (ORIGIN (GSI_RAM_CORE0) + 0x400))
+                0x0000000000020000                PROVIDE (_BOOT_LOADER_SP, (ORIGIN (GSD_RAM_CORE0) + 0x1fffc))
+                0x0000000000000002                PROVIDE (_boot_loader_sp_hi, ((_BOOT_LOADER_SP >> 0x10) & 0xffff))
+                0x0000000000000000                PROVIDE (_boot_loader_sp_lo, ((_BOOT_LOADER_SP >> 0x0) & 0xffff))
+
+/DISCARD/
+ *(.data)
+ *(.bss)
+ *(COMMON)
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+
+PieCtrlRegsFile
+ *(PieCtrlRegsFile)
+
+CpuTimer0RegsFile
+ *(CpuTimer0RegsFile)
+
+CpuTimer1RegsFile
+ *(CpuTimer1RegsFile)
+
+CpuTimer2RegsFile
+ *(CpuTimer2RegsFile)
+
+CpuTimerSysRegsFile
+ *(CpuTimerSysRegsFile)
+
+CpuTimer0LC2RegsFile
+ *(CpuTimer0LC2RegsFile)
+
+CpuTimer1LC2RegsFile
+ *(CpuTimer1LC2RegsFile)
+
+CpuTimer2LC2RegsFile
+ *(CpuTimer2LC2RegsFile)
+
+ExpRegsFile
+ *(ExpRegsFile)
+
+WdRegsFile
+ *(WdRegsFile)
+
+IpcEventRegsFile
+ *(IpcEventRegsFile)
+
+IpcCmdRegsFile
+ *(IpcCmdRegsFile)
+
+TraceBufferRegsFile
+ *(TraceBufferRegsFile)
+
+WatchPointRegsFile
+ *(WatchPointRegsFile)
+
+EccRegsFile
+ *(EccRegsFile)
+
+EradGlobalRegsFile
+ *(EradGlobalRegsFile)
+
+EradHWBP1RegsFile
+ *(EradHWBP1RegsFile)
+
+EradHWBP2RegsFile
+ *(EradHWBP2RegsFile)
+
+EradHWBP3RegsFile
+ *(EradHWBP3RegsFile)
+
+EradHWBP4RegsFile
+ *(EradHWBP4RegsFile)
+
+EradHWBP5RegsFile
+ *(EradHWBP5RegsFile)
+
+EradHWBP6RegsFile
+ *(EradHWBP6RegsFile)
+
+EradHWBP7RegsFile
+ *(EradHWBP7RegsFile)
+
+EradHWBP8RegsFile
+ *(EradHWBP8RegsFile)
+
+EradCounter1RegsFile
+ *(EradCounter1RegsFile)
+
+EradCounter2RegsFile
+ *(EradCounter2RegsFile)
+
+EradCounter3RegsFile
+ *(EradCounter3RegsFile)
+
+EradCounter4RegsFile
+ *(EradCounter4RegsFile)
+
+ClkCfgRegsFile
+ *(ClkCfgRegsFile)
+
+CpuSysRegsFile  0x0000000001001000       0x94
+ *(CpuSysRegsFile)
+ CpuSysRegsFile
+                0x0000000001001000       0x94 Release\globalvariabledefs.o
+                0x0000000001001000                CpuSysRegs
+
+DevCfgRegsFile
+ *(DevCfgRegsFile)
+
+XintRegsFile
+ *(XintRegsFile)
+
+NmiIntruptRegsFile
+                0x0000000001001200       0x1c
+ *(NmiIntruptRegsFile)
+ NmiIntruptRegsFile
+                0x0000000001001200       0x1c Release\globalvariabledefs.o
+                0x0000000001001200                NmiIntruptRegs
+
+Dcc0RegsFile
+ *(Dcc0RegsFile)
+
+GpioCtrlRegsFile
+ *(GpioCtrlRegsFile)
+
+GpioDataRegsFile
+ *(GpioDataRegsFile)
+
+InputXbarRegsFile
+ *(InputXbarRegsFile)
+
+EPwmXbarRegsFile
+ *(EPwmXbarRegsFile)
+
+OutputXbarRegsFile
+ *(OutputXbarRegsFile)
+
+XbarRegsFile
+ *(XbarRegsFile)
+
+DmaRegsFile     0x0000000001009000       0x7c
+ *(DmaRegsFile)
+ DmaRegsFile    0x0000000001009000       0x7c Release\globalvariabledefs.o
+                0x0000000001009000                DmaRegs
+
+DmaCh1RegsFile  0x0000000001009100       0xa0
+ *(DmaCH1RegsFile)
+ DmaCH1RegsFile
+                0x0000000001009100       0xa0 Release\globalvariabledefs.o
+                0x0000000001009100                DmaCh1Regs
+
+DmaCh2RegsFile
+ *(DmaCH2RegsFile)
+
+DmaCh3RegsFile
+ *(DmaCH3RegsFile)
+
+DmaCh4RegsFile
+ *(DmaCH4RegsFile)
+
+DmaCh5RegsFile
+ *(DmaCH5RegsFile)
+
+DmaCh6RegsFile
+ *(DmaCH6RegsFile)
+
+AnalogSubsysRegsFile
+ *(AnalogSubsysRegsFile)
+
+AdcaRegsFile
+ *(AdcaRegsFile)
+
+AdcaResultRegsFile
+ *(AdcaResultRegsFile)
+
+AdcbRegsFile
+ *(AdcbRegsFile)
+
+AdcbResultRegsFile
+ *(AdcbResultRegsFile)
+
+AdccRegsFile
+ *(AdccRegsFile)
+
+AdccResultRegsFile
+ *(AdccResultRegsFile)
+
+Pga1RegsFile
+ *(Pga1RegsFile)
+
+Pga2RegsFile
+ *(Pga2RegsFile)
+
+Pga3RegsFile
+ *(Pga3RegsFile)
+
+Pga4RegsFile
+ *(Pga4RegsFile)
+
+Pga5RegsFile
+ *(Pga5RegsFile)
+
+Pga6RegsFile
+ *(Pga6RegsFile)
+
+Pga7RegsFile
+ *(Pga7RegsFile)
+
+DacaRegsFile
+ *(DacaRegsFile)
+
+DacbRegsFile
+ *(DacbRegsFile)
+
+Cmpss1RegsFile
+ *(Cmpss1RegsFile)
+
+Cmpss2RegsFile
+ *(Cmpss2RegsFile)
+
+Cmpss3RegsFile
+ *(Cmpss3RegsFile)
+
+Cmpss4RegsFile
+ *(Cmpss4RegsFile)
+
+Cmpss5RegsFile
+ *(Cmpss5RegsFile)
+
+Cmpss6RegsFile
+ *(Cmpss6RegsFile)
+
+Cmpss7RegsFile
+ *(Cmpss7RegsFile)
+
+Sdfm1RegsFile
+ *(Sdfm1RegsFile)
+
+ECap1RegsFile
+ *(ECap1RegsFile)
+
+ECap2RegsFile
+ *(ECap2RegsFile)
+
+ECap3RegsFile
+ *(ECap3RegsFile)
+
+ECap4RegsFile
+ *(ECap4RegsFile)
+
+ECap5RegsFile
+ *(ECap5RegsFile)
+
+ECap6RegsFile
+ *(ECap6RegsFile)
+
+ECap7RegsFile
+ *(ECap7RegsFile)
+
+HRCap6RegsFile
+ *(HRCap6RegsFile)
+
+HRCap7RegsFile
+ *(HRCap7RegsFile)
+
+SyncSocRegsFile
+ *(SyncSocRegsFile)
+
+SFORegsFile
+ *(SFORegsFile)
+
+SFOHHRRegsFile
+ *(SFOHHRRegsFile)
+
+EPwm9RegsFile
+ *(EPwm9RegsFile)
+
+EPwm10RegsFile
+ *(EPwm10RegsFile)
+
+EPwm11RegsFile
+ *(EPwm11RegsFile)
+
+EPwm12RegsFile
+ *(EPwm12RegsFile)
+
+EPwm1RegsFile
+ *(EPwm1RegsFile)
+
+EPwm2RegsFile
+ *(EPwm2RegsFile)
+
+EPwm3RegsFile
+ *(EPwm3RegsFile)
+
+EPwm4RegsFile
+ *(EPwm4RegsFile)
+
+EPwm5RegsFile
+ *(EPwm5RegsFile)
+
+EPwm6RegsFile
+ *(EPwm6RegsFile)
+
+EPwm7RegsFile
+ *(EPwm7RegsFile)
+
+EPwm8RegsFile
+ *(EPwm8RegsFile)
+
+EQep1RegsFile
+ *(EQep1RegsFile)
+
+EQep2RegsFile
+ *(EQep2RegsFile)
+
+SpiaRegsFile
+ *(SpiaRegsFile)
+
+SpibRegsFile
+ *(SpibRegsFile)
+
+SciaRegsFile
+ *(SciaRegsFile)
+
+ScibRegsFile
+ *(ScibRegsFile)
+
+I2caRegsFile
+ *(I2caRegsFile)
+
+PmbusaRegsFile
+ *(PmbusaRegsFile)
+
+LinaRegsFile
+ *(LinaRegsFile)
+
+FsiRxaRegsFile
+ *(FsiRxaRegsFile)
+
+FsiTxaRegsFile
+ *(FsiTxaRegsFile)
+
+CanaRegsFile
+ *(CanaRegsFile)
+
+CanbRegsFile
+ *(CanbRegsFile)
+
+CanFDaRegsFile
+ *(CanFDaRegsFile)
+
+CanFDbRegsFile
+ *(CanFDbRegsFile)
+
+HrAdcaRegsFile
+ *(HrAdcaRegsFile)
+
+HrAdcbRegsFile
+ *(HrAdcbRegsFile)
+
+HrAdccRegsFile
+ *(HrAdccRegsFile)
+
+Flash0CtrlRegsFile
+ *(Flash0CtrlRegsFile)
+
+XintfaRegsFile
+ *(XintfaRegsFile)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x1c047
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000    0x1bf1e Release\globalvariabledefs.o
+ .debug_info    0x000000000001bf1e      0x129 Release\bootloadermain.o
+
+.debug_abbrev   0x0000000000000000      0x1c4
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x146 Release\globalvariabledefs.o
+ .debug_abbrev  0x0000000000000146       0x7e Release\bootloadermain.o
+
+.debug_line     0x0000000000000000      0x48c
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x2f1 Release\globalvariabledefs.o
+ .debug_line    0x00000000000002f1      0x19b Release\bootloadermain.o
+
+.debug_frame    0x0000000000000000       0x3c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x3c Release\bootloadermain.o
+
+.debug_str      0x0000000000000000     0xb1f0
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0xb129 Release\globalvariabledefs.o
+                                       0xbc05 (size before relaxing)
+ .debug_str     0x000000000000b129       0xc7 Release\bootloadermain.o
+                                        0x15c (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x18
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x18 Release\bootloadermain.o
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.gptab.sdata
+ *(.gptab.data)
+ *(.gptab.sdata)
+
+.gptab.sbss
+ *(.gptab.bss)
+ *(.gptab.sbss)
+
+.mdebug.abi32
+ *(.mdebug.abi32)
+
+.mdebug.abiN32
+ *(.mdebug.abiN32)
+
+.mdebug.abi64
+ *(.mdebug.abi64)
+
+.mdebug.abiO64
+ *(.mdebug.abiO64)
+
+.mdebug.eabi32
+ *(.mdebug.eabi32)
+
+.mdebug.eabi64
+ *(.mdebug.eabi64)
+
+.gcc_compiled_long32
+ *(.gcc_compiled_long32)
+
+.gcc_compiled_long64
+ *(.gcc_compiled_long64)
+LOAD Release\globalvariabledefs.o
+LOAD Release\bootloadermain.o
+LOAD Release\bootloaderstartup.o
+OUTPUT(Release\bootloader.out elf32-tradlittlemips)
